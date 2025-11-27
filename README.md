@@ -53,4 +53,4 @@ Instagram: https://www.instagram.com/ad_astra1201?igsh=MTJyeGl3ZHdxaGJxbQ==
 Email: rupsananda12@gmail.com
 
 📈 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RupsaNanda&show_icons=true&count_private=true&theme=radical" alt="Rupsa's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupsaNanda&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RupsaNanda&show_icons=true&count_private=true&theme=radical" alt="Rupsa's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adastra16&layout=compact&theme=radical" alt="Top Languages" /> </p>
