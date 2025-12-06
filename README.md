@@ -1,56 +1,68 @@
-<p align="center"> <img src="https://github.com/RupsaNanda.png" alt="Rupsa Nanda" width="120" style="border-radius:50%;"/> </p> <h1 align="center">Hi, I'm Rupsa Nanda 👋</h1> <p align="center"><strong>ML & Backend Engineer</strong> — TensorFlow · Django · React · Cloud · Production-ready ML</p> <p align="center"> <a href="https://github.com/RupsaNanda"><img alt="GitHub" src="https://img.shields.io/badge/-RupsaNanda-181717?style=flat&logo=github&logoColor=white"></a> <a href="mailto:rupsananda12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-rupsananda12@gmail.com-c14438?style=flat&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/rupsa-nanda-168995249"><img alt="LinkedIn" src="https://img.shields.io/badge/-Rupsa_Nanda-0A66C2?style=flat&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/ad_astra1201?igsh=MTJyeGl3ZHdxaGJxbQ=="><img alt="Instagram" src="https://img.shields.io/badge/-@ad_astra1201-E4405F?style=flat&logo=instagram&logoColor=white"></a> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=RupsaNanda&style=flat-square"> </p>
-👋 Introduction
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Rupsa+Nanda" 
+    alt="Typing Animation"
+  />
+</h1>
 
-I build ML-powered web applications and reliable backend systems. I focus on delivering production-ready ML models, secure APIs, and clean engineering practices. Open to collaborations, mentorship, and challenging ML/backend problems.
+<h3 align="center">Aspiring Machine Learning Engineer | Software Developer</h3>
 
-🔧 Tech Stack
+<p align="center">
+  🎓 B.Tech CSE @ VIT-AP | Azure AI Fundamentals | Oracle Gen AI Professional | OCI Certified
+</p>
 
-Languages: Java · Python · JavaScript · TypeScript · SQL
+<br>
 
-ML & Data: TensorFlow · Keras · PyTorch · NumPy · Pandas
+<h2 align="center">⚙️ Languages & Tools</h2>
 
-Web & APIs: Django · Django REST Framework (DRF) · React.js
+<p align="center" class="icon-container">
 
-Databases: MongoDB · MySQL · PostgreSQL
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
 
-Cloud & DevOps: AWS · Azure · Docker · GitHub Actions
+  <!-- ML / DL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50"/>
 
-Tools: Git · Postman · VS Code
+  <!-- Web -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
 
-<p> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure"/> </p>
-🚀 Projects (from resume)
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
 
-Handwritten Digit Classification — CNN using TensorFlow & Keras for MNIST. Focus: model architecture, training pipelines, evaluation, and model export for deployment.
+  <!-- Cloud / DevOps -->
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="50"/>
 
-E-commerce Payment Gateway — Payment integration and transactional flow with Django, DRF, and MongoDB. Focus: secure payment handling, webhooks, and order consistency.
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="50"/>
 
-Plant Disease Prediction — Image-classification pipeline with CNNs, data augmentation, and model tuning for early disease detection.
+</p>
 
-Task Management Web App — Full-stack app with Django, DRF, PostgreSQL and React frontend: auth, task CRUD, filters, and REST APIs.
+<br>
 
-📚 Certificates
+<h2 align="center">📊 GitHub Stats</h2>
 
-Microsoft Azure AI Fundamentals
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adastra16&layout=compact&theme=dracula" />
+</p>
 
-Oracle Cloud Infrastructure
-
-Oracle GenAI Professional
-
-🏆 Leadership & Achievements
-
-Tech Geeks — Associate Co-lead (GFG VIT-AP): organized workshops, mentorships, and community events.
-
-Volunteer — Hackathons & Technical Fests: logistics & technical support for events and competitions.
-
-🌐 Social Links
-
-GitHub: https://github.com/RupsaNanda
-
-LinkedIn: https://www.linkedin.com/in/rupsa-nanda-168995249
-
-Instagram: https://www.instagram.com/ad_astra1201?igsh=MTJyeGl3ZHdxaGJxbQ==
-
-Email: rupsananda12@gmail.com
-
-📈 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=adastra16&show_icons=true&count_private=true&theme=radical" alt="Rupsa's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adastra16&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adastra16&theme=dracula" />
+</p>
