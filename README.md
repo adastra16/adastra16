@@ -32,7 +32,7 @@
 
 
 <p align="center">
-   <b>Buy me coffee 12th Jan</b>
+   <b>Buy me coffee on 12th Jan</b>
 </p>
 
 <p align="center">
