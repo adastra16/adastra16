@@ -28,11 +28,7 @@
 <p align="center">
   🎓 <b>B.Tech CSE @ VIT-AP</b> <br>
   ☁️ Azure AI Fundamentals • Oracle Gen AI Professional • OCI Certified
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="90">
-</p>
 
 ---
 
@@ -82,12 +78,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adastra16&theme=rose_pine&radius=18&area=true&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="150">
-</p>
 
 ---
 
 <p align="center" style="font-size:12px; opacity:0.6;">
   ☕ Buy me a coffee on 12th Jan
+  
+</p>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="90">
 </p>
