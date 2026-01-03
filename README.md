@@ -1,68 +1,107 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Rupsa+Nanda" 
-    alt="Typing Animation"
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
+  &nbsp;
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=32&weight=800&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Rupsa+Nanda;Aspiring+ML+Engineer;Software+Developer;AI+%7C+Cloud+%7C+Backend"
   />
+  &nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
 </h1>
 
-<h3 align="center">Aspiring Machine Learning Engineer | Software Developer</h3>
-
 <p align="center">
-  🎓 B.Tech CSE @ VIT-AP | Azure AI Fundamentals | Oracle Gen AI Professional | OCI Certified
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="90">
+</p>
+
+<h3 align="center">
+  <span style="padding: 10px 20px; border-radius: 14px; background: linear-gradient(135deg,#1e293b,#020617); color:#ffffff; font-weight:700;">
+    Machine Learning • Software Development • Cloud & AI
+  </span>
+</h3>
+
+<p align="center" style="font-size: 14px;">
+  <i>Turning data into intelligence, models into products, and ideas into scalable systems.</i>
 </p>
 
 <br>
 
-<h2 align="center">⚙️ Languages & Tools</h2>
+<p align="center">
+  🎓 <b>B.Tech CSE @ VIT-AP</b> <br>
+  ☁️ Azure AI Fundamentals • Oracle Gen AI Professional • OCI Certified
+</p>
 
-<p align="center" class="icon-container">
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="120">
+</p>
 
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
+---
 
-  <!-- ML / DL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50"/>
+<h2 align="center">
+  ⚙️ Languages & Tools
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+</h2>
+
+<p align="center">
+
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python" width="65"/>
+  <img src="https://skillicons.dev/icons?i=java" width="65"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="65"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="65"/>
+
+  <!-- ML / AI -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="65"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="65"/>
+  <img src="https://skillicons.dev/icons?i=opencv" width="65"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="65"/>
 
   <!-- Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=django" width="65"/>
+  <img src="https://skillicons.dev/icons?i=react" width="65"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="65"/>
+  <img src="https://skillicons.dev/icons?i=express" width="65"/>
 
   <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="65"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="65"/>
 
-  <!-- Cloud / DevOps -->
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="50"/>
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="50"/>
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws" width="65"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="65"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="65"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="65"/>
 
 </p>
 
-<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="140">
+</p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+---
+
+<h2 align="center">
+  📊 GitHub Stats
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35">
+</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adastra16&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adastra16&show_icons=true&theme=github_dark&hide_border=true&border_radius=18"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adastra16&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adastra16&layout=compact&theme=github_dark&hide_border=true&border_radius=18"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adastra16&theme=github-dark&radius=18&area=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="150">
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Code • Learn • Build • Repeat ✨</i>
 </p>
