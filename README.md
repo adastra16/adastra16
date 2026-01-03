@@ -28,15 +28,11 @@
 <p align="center">
   🎓 <b>B.Tech CSE @ VIT-AP</b> <br>
   ☁️ Azure AI Fundamentals • Oracle Gen AI Professional • OCI Certified
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="120">
-</p>
 
 
 <p align="center">
-  ☕ <b>Buy me coffee 12th Jan</b> 💕
+   <b>Buy me coffee 12th Jan</b>
 </p>
 
 <p align="center">
