@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  🎂 <b>Born on 12th January</b> &nbsp; 💖
+   <b>Buy me coffe on 12th January</b> &nbsp; 
 </p>
 
 <p align="center">
@@ -108,5 +108,5 @@
 ---
 
 <p align="center">
-  <i>💫 Soft heart • Sharp mind • Strong code 💫</i>
+  <i>💫 Sharp mind • Strong code 💫</i>
 </p>
