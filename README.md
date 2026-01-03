@@ -36,8 +36,13 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120">
+  ☕ <b>Buy me coffee 12th Jan</b> 💕
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kBZBlLVlfECvOQAVno/giphy.gif" width="90">
+</p>
+
 
 ---
 
