@@ -89,13 +89,7 @@
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="32">
 </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adastra16&show_icons=true&theme=rose_pine&hide_border=true&border_radius=18"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adastra16&layout=compact&theme=rose_pine&hide_border=true&border_radius=18"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adastra16&theme=rose_pine&radius=18&area=true&hide_border=true"/>
