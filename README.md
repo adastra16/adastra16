@@ -16,7 +16,7 @@
 </h3>
 
 <p align="center" style="font-size: 14px;">
-  <i>✨ Turning ideas into intelligent, beautiful & scalable systems ✨</i>
+  <i> Turning ideas into intelligent, beautiful & scalable systems </i>
 </p>
 
 <br>
@@ -26,13 +26,11 @@
   ☁️ Azure AI Fundamentals • Oracle Gen AI Professional • OCI Certified
 </p>
 
-<p align="center">
-  ☕🎂 <b>Birthday coffee date? — 12th January</b> 💕
-</p>
+
 
 ---
 
-<h2 align="center">🌸 Languages & Tools</h2>
+<h2 align="center"> Languages & Tools</h2>
 
 <p align="center">
 
@@ -69,7 +67,7 @@
 
 ---
 
-<h2 align="center">💗 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adastra16&theme=rose_pine&radius=18&area=true&hide_border=true"/>
@@ -77,9 +75,6 @@
 
 ---
 
-<p align="center">
-  <i>💫 Sharp mind • Strong code 💫</i>
-</p>
 
 <!-- ONE AND ONLY GIPHY -->
 <p align="center">
