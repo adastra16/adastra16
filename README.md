@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=34&weight=800&center=true&vCenter=true&width=900&height=70&lines=I'm+Rupsa+Nanda;Aspiring+ML+Engineer;Software+Developer;AI+%7C+Cloud+%7C+Backend"
-  />
+  
 </h1>
 
 <p align="center">
@@ -33,7 +31,7 @@
 ---
 
 <h2 align="center">
-  🌸 Languages & Tools
+   Languages & Tools
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32">
 </h2>
 
@@ -63,16 +61,13 @@
   <img src="https://skillicons.dev/icons?i=githubactions" width="62"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="140">
-</p>
+
 
 ---
 
 <h2 align="center">
-  💗 GitHub Stats
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="32">
-</h2>
+   GitHub Stats
+ 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adastra16&theme=rose_pine&radius=18&area=true&hide_border=true"/>
